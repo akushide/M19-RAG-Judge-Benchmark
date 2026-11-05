@@ -1,0 +1,17 @@
+# Core packages used by the published scripts (pin versions from your own environment if exact reproduction is needed)
+numpy
+pandas
+openpyxl
+scikit-learn
+scipy
+matplotlib
+python-dotenv
+openai
+sentence-transformers
+torch
+transformers
+chromadb
+faiss-cpu
+streamlit
+markitdown
+tqdm
