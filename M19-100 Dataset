@@ -1,0 +1,18 @@
+# M19-100: A 100-Question Benchmark for Topic 19 (Energy Management)
+
+M19-100 is a benchmark of 100 questions with reference answers, built from the
+**main text of the fifth edition of Topic 19 (Energy Management)** of the Iranian
+National Building Regulations. It was created to evaluate retrieval-augmented
+question answering (RAG) and automatic answer judges for regulatory text.
+
+This repository accompanies the paper:
+
+> A. Akoushideh, "Validity of Automatic Judges for RAG Question Answering on the
+> Iranian National Building Regulations, Topic 19 (Energy Management): Benchmark
+> Bias, Error-Type Analysis and Real-Answer Validation," IEEE Access, [year/status].
+
+## Contents
+
+- **M19-100 questions and reference answers**: 100 questions, each with a reference
+  answer taken from the text. Language: Persian.
+- **Controlled and
