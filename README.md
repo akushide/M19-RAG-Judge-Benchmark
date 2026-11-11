@@ -1,4 +1,4 @@
-# M19-RAG: Persian RAG for Iranian National Building Regulations, Topic 19 (Energy Management)
+# Validity of automatic judges for retrieval-augmented question answering on technical regulations: a Persian-language framework evaluated on Section 19 (Energy Management) of the Iranian National Building Regulations
 
 Code for the paper's pipeline: data preparation, embedding and indexing, batch QA, automatic judges,
 the interactive platform, benchmark evaluation (M19-100) and statistics.
